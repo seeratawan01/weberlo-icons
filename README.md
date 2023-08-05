@@ -4,6 +4,20 @@
 Implementation of the Weberlo Icons library for React applications.
 <p>
 
+## Development
+
+Install dependencies  (yarn or pnpm)
+
+```
+yarn 
+```
+
+Run the development server (yarn or pnpm)
+
+```
+yarn build
+```
+
 
 ## Installation
 
